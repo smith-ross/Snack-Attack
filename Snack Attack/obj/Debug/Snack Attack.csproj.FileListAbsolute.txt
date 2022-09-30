@@ -1,0 +1,10 @@
+C:\Users\Ross\Documents\College Applications Assessment\Snack Attack\Snack Attack\bin\Debug\Snack Attack.exe.config
+C:\Users\Ross\Documents\College Applications Assessment\Snack Attack\Snack Attack\bin\Debug\Snack Attack.exe
+C:\Users\Ross\Documents\College Applications Assessment\Snack Attack\Snack Attack\bin\Debug\Snack Attack.pdb
+C:\Users\Ross\Documents\College Applications Assessment\Snack Attack\Snack Attack\obj\Debug\Snack_Attack.game.resources
+C:\Users\Ross\Documents\College Applications Assessment\Snack Attack\Snack Attack\obj\Debug\Snack_Attack.Properties.Resources.resources
+C:\Users\Ross\Documents\College Applications Assessment\Snack Attack\Snack Attack\obj\Debug\Snack Attack.csproj.GenerateResource.cache
+C:\Users\Ross\Documents\College Applications Assessment\Snack Attack\Snack Attack\obj\Debug\Snack Attack.exe
+C:\Users\Ross\Documents\College Applications Assessment\Snack Attack\Snack Attack\obj\Debug\Snack Attack.pdb
+C:\Users\Ross\Documents\College Applications Assessment\Snack Attack\Snack Attack\obj\Debug\Snack Attack.csproj.AssemblyReference.cache
+C:\Users\Ross\Documents\College Applications Assessment\Snack Attack\Snack Attack\obj\Debug\Snack Attack.csproj.CoreCompileInputs.cache
